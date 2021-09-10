@@ -1,10 +1,9 @@
-import csv, pyodbc
 import re
 import os
 try:
-    from .tools import recur
+    from ..tools import recur
 except:
-    from r00fileparse.tools import recur
+    from r00file.tools import recur
 
 
 class ParseGmail:

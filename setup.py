@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 from os.path import join, dirname
 
 setup(
-    name='r00fileparse',
-    version='0.1',
+    name='r00file',
+    version='0.2',
     license='MIT',
     author="Andrey Ivanov",
     author_email='r00ft1h@gmail.com',

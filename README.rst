@@ -8,7 +8,7 @@ Installing
 
 .. code-block:: bash
 
-    pip install r00fileparse
+    pip install r00file
 
 Usage
 =====
